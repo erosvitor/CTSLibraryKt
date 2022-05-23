@@ -1,0 +1,41 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:br.com.ctseducare.conversion////PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.conversion/index.html
+$dokka.location:br.com.ctseducare.conversion/CTSConversion///PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.conversion/-c-t-s-conversion/index.html
+$dokka.location:br.com.ctseducare.conversion/CTSConversion/hoursToSeconds/#kotlin.String/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.conversion/-c-t-s-conversion/hours-to-seconds.html
+$dokka.location:br.com.ctseducare.conversion/CTSConversion/secondsToHours/#kotlin.Int/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.conversion/-c-t-s-conversion/seconds-to-hours.html
+$dokka.location:br.com.ctseducare.date////PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.date/index.html
+$dokka.location:br.com.ctseducare.date/CTSDate///PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.date/-c-t-s-date/index.html
+$dokka.location:br.com.ctseducare.date/CTSDate/getDay/#kotlin.String/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.date/-c-t-s-date/get-day.html
+$dokka.location:br.com.ctseducare.date/CTSDate/getMonth/#kotlin.String/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.date/-c-t-s-date/get-month.html
+$dokka.location:br.com.ctseducare.date/CTSDate/getYear/#kotlin.String/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.date/-c-t-s-date/get-year.html
+$dokka.location:br.com.ctseducare.extenso////PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.extenso/index.html
+$dokka.location:br.com.ctseducare.extenso/CTSExtensoData///PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.extenso/-c-t-s-extenso-data/index.html
+$dokka.location:br.com.ctseducare.extenso/CTSExtensoData/dataPorExtenso/#kotlin.String/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.extenso/-c-t-s-extenso-data/data-por-extenso.html
+$dokka.location:br.com.ctseducare.extenso/CTSExtensoData/nomeDoDiaDaSemana/#kotlin.Int/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.extenso/-c-t-s-extenso-data/nome-do-dia-da-semana.html
+$dokka.location:br.com.ctseducare.extenso/CTSExtensoData/nomeDoDiaDaSemanaCompleto/#kotlin.Int/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.extenso/-c-t-s-extenso-data/nome-do-dia-da-semana-completo.html
+$dokka.location:br.com.ctseducare.extenso/CTSExtensoData/nomeDoMes/#kotlin.Int/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.extenso/-c-t-s-extenso-data/nome-do-mes.html
+$dokka.location:br.com.ctseducare.extenso/CTSExtensoData/nomeDoMes/#kotlin.String/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.extenso/-c-t-s-extenso-data/nome-do-mes.html
+$dokka.location:br.com.ctseducare.extenso/CTSExtensoMoeda///PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.extenso/-c-t-s-extenso-moeda/index.html
+$dokka.location:br.com.ctseducare.extenso/CTSExtensoMoeda/valorPorExtenso/#kotlin.String/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.extenso/-c-t-s-extenso-moeda/valor-por-extenso.html
+$dokka.location:br.com.ctseducare.formatting////PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.formatting/index.html
+$dokka.location:br.com.ctseducare.formatting/CTSFormatting///PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.formatting/-c-t-s-formatting/index.html
+$dokka.location:br.com.ctseducare.formatting/CTSFormatting/cnpjAplicarFormatacao/#kotlin.String/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.formatting/-c-t-s-formatting/cnpj-aplicar-formatacao.html
+$dokka.location:br.com.ctseducare.formatting/CTSFormatting/cnpjRetirarFormatacao/#kotlin.String/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.formatting/-c-t-s-formatting/cnpj-retirar-formatacao.html
+$dokka.location:br.com.ctseducare.formatting/CTSFormatting/cpfAplicarFormatacao/#kotlin.String/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.formatting/-c-t-s-formatting/cpf-aplicar-formatacao.html
+$dokka.location:br.com.ctseducare.formatting/CTSFormatting/cpfRetirarFormatacao/#kotlin.String/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.formatting/-c-t-s-formatting/cpf-retirar-formatacao.html
+$dokka.location:br.com.ctseducare.formatting/CTSFormatting/formatPersonalName/#kotlin.String/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.formatting/-c-t-s-formatting/format-personal-name.html
+$dokka.location:br.com.ctseducare.validation////PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.validation/index.html
+$dokka.location:br.com.ctseducare.validation/CTSValidation///PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.validation/-c-t-s-validation/index.html
+$dokka.location:br.com.ctseducare.validation/CTSValidation/cnpjIsValid/#kotlin.String/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.validation/-c-t-s-validation/cnpj-is-valid.html
+$dokka.location:br.com.ctseducare.validation/CTSValidation/cpfIsValid/#kotlin.String/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.validation/-c-t-s-validation/cpf-is-valid.html
+$dokka.location:br.com.ctseducare.validation/CTSValidation/dateIsValid/#kotlin.String/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.validation/-c-t-s-validation/date-is-valid.html
+$dokka.location:br.com.ctseducare.validation/CTSValidation/emailIsValid/#kotlin.String/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.validation/-c-t-s-validation/email-is-valid.html
+$dokka.location:br.com.ctseducare.validation/CTSValidation/isLeapYear/#kotlin.String/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.validation/-c-t-s-validation/is-leap-year.html
+$dokka.location:br.com.ctseducare.validation/CTSValidation/personalNameIsValid/#kotlin.String/PointingToDeclaration/-c-t-s-library-kt/br.com.ctseducare.validation/-c-t-s-validation/personal-name-is-valid.html
+br.com.ctseducare.conversion
+br.com.ctseducare.date
+br.com.ctseducare.extenso
+br.com.ctseducare.formatting
+br.com.ctseducare.validation
+
